@@ -83,7 +83,6 @@ function createEmp(){
     }
 
 // and to create objects for each team member (using the correct classes as blueprints!)
-// Q: create a constructor function here or class??
 
 // After the user has input all employees desired, call the `render` function (required
 // above) and pass in an array containing all employee objects; the `render` function will
