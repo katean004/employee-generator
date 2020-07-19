@@ -24,7 +24,7 @@ Install node, jest npm, and inquirer npm before usage.
 In the terminal of one of the test files, run "npm run test".
 
 ## Usage
-Answer required prompts in terminal. Refer to walkthrough video.
+On app.js terminal run "node app.js" then answer the inquirer prompts in terminal. Refer to walkthrough video.
 
 ## License
 MIT License
