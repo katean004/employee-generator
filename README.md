@@ -2,7 +2,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![](https://i.gyazo.com/a7396f8640f4cff5c37f463578a7f461.png)
 
-- https://katean004.github.io/employee-generator/
 ## Table of Contents
   - [Walkthrough Video](#walkthrough-video)
   - [Description](#description)
