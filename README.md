@@ -13,7 +13,7 @@
 
 
 ## Walkthrough Video
-- link: 
+- link here 
 
 ## Description
 A CLI that prompts employers for information about their employees to generate a team profile that includes employee information based on their title such as name, id, email, github, school, and office number. 
