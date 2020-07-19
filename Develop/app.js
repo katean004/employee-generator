@@ -48,7 +48,7 @@ function createEmp(){
                     inquirer.prompt({
                         type:"input",
                         name:"github",
-                        message:"WHat is your github Username?"
+                        message:"What is your github Username?"
                     }).then(function(engAns){
                         const myEngineer = new Engineer(answers.name,answers.id,answers.email,engAns.github)
                         console.log(myEngineer);
