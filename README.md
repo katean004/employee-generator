@@ -1,6 +1,6 @@
 # Employee-Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![](https://i.gyazo.com/a7396f8640f4cff5c37f463578a7f461.png)
+![](https://i.gyazo.com/c744156d0d404db5a7d9306edb4970b7.png)
 
 ## Table of Contents
   - [Walkthrough Video](#walkthrough-video)
